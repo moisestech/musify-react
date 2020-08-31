@@ -1,7 +1,7 @@
 # musify-react
 Musify - music streaming application built with ReactJS
 
-![Musify logo](https://github.com/moisestech/musify-react/blob/master/public/musify_logo.png)
+![Musify logo](https://github.com/moisestech/musify-react/blob/master/public/Musify-logo.png)
 
 ## Application tree
 ``` bash
