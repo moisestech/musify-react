@@ -37,3 +37,12 @@ Musify - music streaming application built with ReactJS
 │       └── spotifyAPI.js
 └── webpack.config.js
 ```
+
+**Features**
+- Context API (redux)
+- Material UI
+- React Router —> Search music to results instantly without Refresh
+- Spotify Search API
+- Custom Hook with React
+- Firebase to setup app to connect to Authenticate
+- Use Firebase to deploy the App
