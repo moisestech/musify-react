@@ -1,3 +1,137 @@
 body {
   margin: 0;
 }
+
+/* Body */
+
+.body {
+
+}
+
+.body::-webkit-scrollbar {
+  display: none;
+}
+
+.body-info {
+
+}
+
+.body-shuffle {
+
+}
+
+.body-icons {
+
+}
+
+.body-cins > .MuiSgIcon-root {
+
+}
+
+.body-shuffle:hover {
+
+}
+
+.body-background {
+
+}
+
+.body-info > img {
+
+}
+
+.body-info-text {
+
+}
+
+.body-info-text > h2 {
+
+}
+
+.body-info-text > p {
+
+}
+
+/* Footer. */
+
+.footer {
+
+}
+
+.footer-right * .MuiSlider-root {
+
+}
+
+/* Header */
+
+.header {
+
+}
+
+.footer-left {
+
+}
+
+.footer-green {
+
+}
+
+.footer-center {
+
+}
+
+.footer-icon:hover {
+
+}
+
+.footer-green:hover {
+
+}
+
+.footer-right {
+
+}
+
+.footer-album-logo {
+
+}
+
+.footer-song-info > h4 {
+
+}
+
+.footer-song-info > p {
+
+}
+
+/* Login */
+
+.login {
+
+}
+
+
+/* Player */
+
+.player {
+
+}
+
+
+/* Sidebar */
+
+.sidebar {
+
+}
+
+/* Sidebar Option */
+
+.sidebar-option {
+
+}
+
+/* Song Row */
+
+.song-row {
+
+}
