@@ -2,6 +2,8 @@ import * as React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import SpotifyWebApi from 'spotify-web-api-js'
+import Login from './Login'
 
 // Component
 // State
@@ -9,9 +11,13 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 // UI
 
 function App () {
+  const [useToken, setToken] = React.useState(true)
 
   return (
-    <h1>Welcome to Musify!</h1>
+    <div className='app'>
+      {!token && <Login />}
+      {token && <Player />}
+    </div>
   )
 }
 
